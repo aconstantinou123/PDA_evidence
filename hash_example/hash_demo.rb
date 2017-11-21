@@ -22,3 +22,9 @@ drinks = [
 ]
 
 puts total_stock_value(drinks)
+
+show_index(drinks)
+
+puts find_drinks(drinks)
+
+puts reduce_drinks(drinks)
